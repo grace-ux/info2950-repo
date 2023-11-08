@@ -1,0 +1,605 @@
+Country,Type,Date(s),Artist / Guest,Event Name,Location,Venue + Map
+Australia,Concert,Feb 21,Stray Kids,I Am,Melbourne VIC,Festival Hall
+Australia,Concert,Mar 11,Eric Nam,I Color U,Melbourne VIC,170 Russell
+Australia,Concert,Jun 08,Monsta X,We Are Here,Melbourne VIC,[TBD]()
+Australia,Concert,Jun 13,Blackpink,In Your Area,Melbourne VIC,Rod Laver Arena
+Australia,Concert,Sept 01,Dreamcatcher,Invitation from Nightmare City,"Melbourne, Australia",170 Russell
+Australia,Concert,Feb 24,Stray Kids,I Am,Milsons Point NSW,Big Top Sydney
+Australia,Concert,Mar 08,Eric Nam,I Color U,Newstead QLD,The Triffid
+Australia,Concert,Aug 29,Dreamcatcher,Invitation from Nightmare City,"NSW, Australia",Factory Theatre
+Australia,Concert,Apr 26,Sik-K,FL1P Sik-K,St Kilda VIC,Prince Bandroom
+Australia,Concert,Mar 10,Eric Nam,I Color U,Sydney NSW,Metro Theatre
+Australia,Concert,Apr 28,Sik-K,FL1P Sik-K,Sydney NSW,Metro Theatre
+Australia,Concert,Jun 05,Monsta X,We Are Here,Sydney NSW,[TBD]()
+Australia,Concert,Jun 15,Blackpink,In Your Area,Sydney Olympic Park NSW,Qudos Bank Arena
+Belgium,Concert,Mar 01,A.C.E.,To Be An Ace,"Brussels, Belgium",La Madeleine
+Belgium,Concert,Mar 16,Epik High,sleepless in __________,"Brussels, Belgium",La Madeleine
+Belgium,Concert,Jun 16,Eric Nam,I Color U,"Brussels, Belgium",La Madeleine
+Brazil,Concert,Jan 31,Oh My Girl,Tour in Brazil,"Curitiba, Brazil",Teatro da FEP
+Brazil,Concert,Jan 30,Oh My Girl,Tour in Brazil,"Porto Alegre, Brazil",Auditório Elizabeth Lee
+Brazil,Concert,Jan 29,Oh My Girl,Tour in Brazil,"Rio de Janeiro, Brazil",Teatro Dercy Gonçalves
+Brazil,Concert,Feb 03,Oh My Girl,Tour in Brazil,"São Paulo, Brazil",Teatro UMC
+Brazil,Concert,May 25,BTS,Love Yourself: Speak Yourself,"São Paulo, Brazil",Allianz Parque
+Brazil,Concert,Jul 19,Monsta X,We Are Here,"São Paulo, Brazil",Espaço das Américas
+Brazil,Concert,Sep 15,Pentagon,PRISM,"São Paulo, Brazil",Tropical Butantã
+Canada,Concert,Mar 13,Sunmi,Warning,"Calgary, AB",The Palace Theatre
+Canada,Concert,Mar 16,Sunmi,Warning,"Calgary, AB",Queen Elizabeth Theatre
+Canada,Concert,Apr 27,Blackpink,In Your Area,"Hamilton,ON",First Ontario Centre
+Canada,Concert,Sept 05,Dok2Gonzo,Thunderground,"Montréal, QC",L'Astral
+Canada,Concert,Mar 03,Tiffany Young,Lips on Lips,Toronto,Mod Club Theatre
+Canada,Concert,Jan 27,Winner,Everwhere,"Toronto, ON",Sony Centre
+Canada,Concert,Apr 04,Epik High,sleepless in __________,"Toronto, ON",Phoenix Concert Theatre
+Canada,Concert,Apr 18,Sik-K,FL1P Sik-K,"Toronto, ON",Danforth Music Hall
+Canada,Concert,Apr 25,VAV,Meet & Live Tour,"Toronto, ON",Bluma Appel Theatre
+Canada,Concert,May 17,NCT127,NeoCity: The Origin,"Toronto, ON",Coca-Cola Coliseum
+Canada,Concert,Sep 03,Pentagon,PRISM,"Toronto, ON",Phoenix Concert Theatre
+Canada,Concert,Sept 08,Dok2Gonzo,Thunderground,"Toronto, ON",Mod Club Theatre
+Canada,Concert,Nov 04,Tiffany Young,Magnetic Moon,"Toronto, ON",Danforth Music Hall
+Canada,Concert,Mar 11,Sunmi,Warning,"Vancouver, BC",Vogue Theater
+Canada,Concert,Mar 13,Tiffany Young,Lips on Lips,"Vancouver, BC",Venue
+Canada,Concert,Apr 20,Sik-K,FL1P Sik-K,"Vancouver, BC",Vogue Theater
+Canada,Concert,May 02-03,Epik High,sleepless in __________,"Vancouver, BC",Vogue Theater
+Canada,Concert,May 19,NCT127,NeoCity: The Origin,"Vancouver, BC",Pacific Coliseum
+Canada,Concert,Sept 01,Dok2Gonzo,Thunderground,"Vancouver, BC",Venue Nightclub
+Canada,Concert,Oct 27,Tiffany Young,Magnetic Moon,"Vancouver, BC",Vogue Theatre
+Czech,Concert,Feb 24,Park Jungmin,Europe Tour,"Prague, Czechia",Image Theater
+Czech,Concert,Apr 05,Seven O'Clock,The Beginning,"Prague, Czechia",Klub Nová Chmelnice
+Czech,Workshop,Apr 22,Alphabat,The Revival,"Prague, Czechia",Dance Studio
+Czech,Concert,Apr 23,Alphabat,The Revival,"Prague, Czechia",Nova Chmelnice
+Czech,Concert,Jun 10,Eric Nam,I Color U,"Prague, Czechia",Lucerna Music Bar
+Finland,Concert,Mar 14,Epik High,sleepless in __________,"Helsinki, Finland",The Circus
+France,Concert,Jan 27,Day6,Youth,"Paris, France",Casino de Paris
+France,Concert,Jan 27,Day6,Youth,"Paris, France",Casino de Paris
+France,Concert,Feb 13,PLT,We Go Holic,"Paris, France",Bataclan
+France,Concert,Feb 22,A.C.E.,To Be An Ace,"Paris, France",Bataclan
+France,Concert,Mar 17,Epik High,sleepless in __________,"Paris, France",Yoyo Palais de Tokyo
+France,Concert,Mar 17-18,Sik-K,FL1P Sik-K,"Paris, France",Le Trabendo
+France,Concert,Mar 22,Bang Yongguk,European Tour,"Paris, France",Glazart
+France,Concert,Apr 07,Ateez,Expedition,"Paris, France",Le Bataclan
+France,Concert,Apr 21,M.O.N.T,Will You Be My Mint,"Paris, France",[TBD]()
+France,Concert,Apr 27,Sam Kim,Sun and Moon,"Paris, France",Le Trabendo
+France,Concert,May 09,SF9,Unlimited,"Paris, France",Casino de Paris
+France,Concert,May 26,Blackpink,In Your Area,"Paris, France",Zenith Paris - La Villette
+France,Concert,Jun 18,Eric Nam,I Color U,"Paris, France",Le Trabendo
+France,Concert,Jul 06,Monsta X,We Are Here,"Paris, France",[TBD]()
+France,Concert,Sept 21,Dok2Gonzo,Thunderground,"Paris, France",Trabendo
+France,Concert,Oct 25,Pentagon,PRISM,"Paris, France",Le Bataclan
+France,Concert,Jun 07-08,BTS,Love Yourself : Speak Yourself,"Saint-Denis, France",Stade de France
+Germany,Concert,Jan 22,Day6,Youth,"Berlin, Germany",Columbiahalle
+Germany,Concert,Jan 22,Day6,Youth,"Berlin, Germany",Columbiahalle
+Germany,Concert,Feb 15,PLT,We Go Holic,"Berlin, Germany",Columbia Theater
+Germany,Concert,Feb 24,A.C.E.,To Be An Ace,"Berlin, Germany",Kesselhaus
+Germany,Concert,Mar 13,Epik High,sleepless in __________,"Berlin, Germany",Kesselhaus
+Germany,Concert,Mar 21,Sik-K,FL1P Sik-K,"Berlin, Germany",Columbia Theater
+Germany,Concert,Apr 09,Ateez,Expedition,"Berlin, Germany",Astra Kulturhaus
+Germany,Concert,Apr 19,IMFACT,European Tour,"Berlin, Germany",Kesselhaus
+Germany,Concert,Apr 30,Sam Kim,Sun and Moon,"Berlin, Germany",Columbia Theater
+Germany,Concert,May 05,SF9,Unlimited,"Berlin, Germany",Astra Kulturhaus
+Germany,Concert,May 24,Blackpink,In Your Area,"Berlin, Germany",Max-Schmeling-Halle
+Germany,Concert,Jun 13,Eric Nam,I Color U,"Berlin, Germany",Lido
+Germany,Concert,Jul 13,Monsta X,We Are Here,"Berlin, Germany",[TBD]()
+Germany,Concert,Sept 19,Dok2Gonzo,Thunderground,"Berlin, Germany",Columbia Theater
+Germany,Concert,Oct 22,Pentagon,PRISM,"Berlin, Germany",Astra Kulturhaus
+Germany,Concert,Apr 17,Alphabat,The Revival,"Bochum, Germany",Matrix Bochum
+Germany,Concert,Feb 20,Park Jungmin,Europe Tour,"Cologne, Germany",Bogen 2
+Germany,Concert,Mar 29,Bang Yongguk,European Tour,"Cologne, Germany",Bogen 2
+Germany,Concert,Apr 15,M.O.N.T,Will You Be My Mint,"Cologne, Germany",[TBD]()
+Germany,Concert,Apr 16,IMFACT,European Tour,"Cologne, Germany",Die Kantine
+Germany,Concert,May 19,Ju Won Tak,European Tour,"Cologne, Germany",TBD
+Germany,Concert,Jun 15,Eric Nam,I Color U,"Cologne, Germany",Die Kantine
+Germany,Concert,Apr 10,Seven O'Clock,The Beginning,"Dusseldorf, Germany",TBD
+Greece,Concert,Apr 21,IMFACT,European Tour,"Tavros, Greece",Fuzz Club
+Hong Kong,Fanmeet,Mar 09,Kim Jae Joong JYJ,J-Party,---,Asia World-Expo Arena
+Hong Kong,Fanmeet,Mar 10,Lee Joonggi,Delight,---,Asia World-Expo Arena
+Hong Kong,Concert,Mar 20-21,BTS,Love Yourself,---,Asia World-Expo Arena
+Hong Kong,Concert,Mar 23-24,BTS,Love Yourself,---,Asia World-Expo Arena
+Hong Kong,Fanmeet,Mar 23,Park Ji Hoon,First Edition,---,Asia World-Expo Arena
+Hong Kong,Concert,Mar 24,Lovelyz,Lovelyz 3 of Winter World,---,Asia World-Expo Arena
+Hong Kong,Fanmeet,Apr 04,Momoland,"Hello, Merry Go",---,Asia World-Expo Arena
+Hong Kong,Fanmeet,Apr 05,Ha Sungwoon Hotshot,My Moment,---,MacPherson Stadium
+Hong Kong,Concert,Aug 03,Gfriend,GO GO GFRIEND!,Chek Lap Kok,AsiaWorld Expo
+Hong Kong,Concert,Mar 17,Lee Honggi,I Am,Kowloon Bay,KITEC
+Hong Kong,Concert,Mar 29,ONF,We Must Love,Kowloon Bay,KITEC E-Max
+Hong Kong,Concert,Mar 30,ASTRO,Star Light,Kowloon Bay,KITEC Star Hall
+Hong Kong,Concert,Apr 13,Sunmi,Warning,Kowloon Bay,KITEC Star Hall
+Hungary,Concert,Mar 05,A.C.E.,To Be An Ace,"Budapest, Hungary",Akvárium Klub
+Hungary,Concert,Mar 31,Bang Yongguk,European Tour,"Budapest, Hungary",Dürer Kert
+Hungary,Concert,Apr 09,Seven O'Clock,The Beginning,"Budapest, Hungary",TRIP Hajó
+Hungary,Concert,Apr 16,Ateez,Expedition,"Budapest, Hungary",Dürer Kert
+Hungary,Concert,May 27,Ju Won Tak,European Tour,"Budapest, Hungary",TBD
+Indonesia,Concert,Apr 21,Jus2 (Got7),Focus,BSD City,Nusantara Hall
+Indonesia,Fanmeet,Mar 09,So Jisub,Hello Jakarta,Jakarta,Balai Sarbini Jakarta
+Indonesia,Fanmeet,Mar 23,Park Bogum,Good Day,Jakarta,The Kasablanka
+Indonesia,Concert,Aug 23,Gfriend,GO GO GFRIEND!,Jakarta,The Kasablanka
+Indonesia,Concert,Dec 21,Winner,Cross Tour,Jakarta,Tennis Indoor Senayan
+Ireland,Concert,Mar 08,A.C.E.,To Be An Ace,"Dublin, Ireland",The Academy
+Italy,Concert,Apr 14,Ateez,Expedition,"Milan, Italy",Magazzini Generali
+Italy,Concert,Jun 08,Eric Nam,I Color U,"Milan, Italy",Santeria Social Club
+Italy,Concert,Oct 17,Pentagon,PRISM,"Milan, Italy",Magazzini Generali
+Italy,Concert,Sept 17,Dok2Gonzo,Thunderground,"Milano, Italy",Magazzini Generali
+Japan,Fanmeet,Apr 28-29,iKon,Fan Meeting 2019,Aichi,Nagoya Civil Hall
+Japan,Concert,Aug 21-23,iKon,Japan Your 2019,Aichi,Nagoya Civil Hall
+Japan,Showcase,Apr 10-11,Jus2 GOT7,Focus,"Aomi, Tokyo",Zepp DiverCity
+Japan,Fanmeet,Mar 17,Eric Nam,I Color U,"Asakusabashi, Tokyo",Hulic Hall
+Japan,Concert,Apr 19-21,Seventeen,Haru,Chiba,Makuhari Messe
+Japan,Fanmeet,Apr 22,Seventeen,Hana,Chiba,Makuhari Messe
+Japan,Fanmeet,May 04,iKon,Fan Meeting 2019,Chiba,Ichikawa City Hall
+Japan,Convention,May 17-19,Various,Kcon Japan 2019,Chiba,Makuhari Messe
+Japan,Concert,Sep 07-08,iKon,Japan Your 2019,Chiba,Makuhari Messe
+Japan,Fanmeet,Mar 19,Yuri SNSD,Into Yuri,"Chiyoda, Tokyo",Tokyo Intl Forum Hall C
+Japan,Fanmeet,Feb 23-24,Choi Minho SHINee,Best Choi's Minho,"Chofu, Tokyo",Musashino Forest Sport Plaza
+Japan,Fanmeet,May 24-25,iKon,Fan Meeting 2019,Fukuoka,Fukuoka Sun Palace Hotel
+Japan,Concert,Jul 27-28,iKon,Japan Your 2019,Fukuoka,Marine Messe
+Japan,Concert,May 08-09,Jaejoong JYJ,Flawless Love,Hokkaido,Makomanai Ice Arena
+Japan,Fanmeet,Feb 22,Kim Kyujong SS501,2019 Fanmeeting,Hyogo,Amagasaki Cultural Center
+Japan,Concert,Apr 27-29,EXO-CBX,Magical Circus,Hyogo,World Hall
+Japan,Fanmeet,May 01-02,iKon,Fan Meeting 2019,Hyogo,World Hall
+Japan,Concert,Aug 09-12,iKon,Japan Your 2019,Hyogo,World Hall
+Japan,Concert,Apr 29-30,Jaejoong JYJ,Flawless Love,Kagoshima,Kagoshima Arena
+Japan,Concert,May 04-05,Jaejoong JYJ,Flawless Love,Miyagi,Xebio Arena
+Japan,Concert,Aug 25,iKon,Japan Your 2019,Miyagi,Xebio Arena
+Japan,Concert,Jan 20,JBJ95,Home,Osaka,ATC Hall
+Japan,Concert,Jan 29-Feb 02,MVP,BEST OF MVP,Osaka,Esaka Hall
+Japan,Fanmeet,Feb 11,Seohyun SNSD,Memories,Osaka,Amashin Archaic Hall
+Japan,Concert,Apr 13,ONF,We Must Love,Osaka,Zepp Osaka Bayside
+Japan,Fanmeet,Apr 16,GWSN,groo my world,Osaka,BIGCAT
+Japan,Showcase,Apr 17-18,Jus2 GOT7,Focus,Osaka,Zepp Namba
+Japan,Concert,Apr 18-19,Berry Good,Spring Days with Berry Good,Osaka,Azalea Taishō Hall
+Japan,Fanmeet,Apr 20,"Daehyun, Jong-up B.A.P",Daehyun x Jong-up Fanmeeting,Osaka,Azalea Taishō Hall
+Japan,Concert,Apr 23-29,VANNER,Spring Concert in Osaka,Osaka,Azalea Taishō Hall
+Japan,Concert,Apr 25-27,Seventeen,Haru,Osaka,Osaka-Jo Hall
+Japan,Fanmeet,Apr 26-27,Seventeen,Hana,Osaka,Osaka-Jo Hall
+Japan,Fanmeet,May 10,Bang Yongguk,1st Fan Meeting,Osaka,Zepp Namba
+Japan,Fanmeet,Jun 07,Kim Jaehwan,MIN:D,Osaka,Orix Theater
+Japan,Concert,Jul 06-07,BTS,Love Yourself : Speak Yourself,Osaka,Yanmar Stadium Nagai
+Japan,Concert,Sep 18-19,iKon,Japan Your 2019,Osaka,Osaka-Jo Hall
+Japan,Concert,Apr 16-17,EXO-CBX,Magical Circus,Saitama,Saitama Super Arena
+Japan,Fanmeet,May 05-06,iKon,Fan Meeting 2019,Saitama,Sonic City
+Japan,Fanmeet,Jun 08,Kim Jaehwan,MIN:D,Saitama,Sonic City
+Japan,Concert,Jul 13-14,BTS,Love Yourself : Speak Yourself,Shizuoka,Shizuoka Stadium Ecopa
+Japan,Concert,Jan 18,JBJ95,Home,Tokyo,Kanagawa Kenmin Hall
+Japan,Concert,Jan 27,Kwon Hyunbin,New Year 2019 LOVE,Tokyo,Toyosu PIT
+Japan,Concert,Jan 27,MVP,BEST OF MVP,Tokyo,K-Stage O!
+Japan,Concert,Jan 28,MVP,BEST OF MVP,Tokyo,Uchisaiwaicho Hall
+Japan,Fanmeet,Feb 02,Seohyun SNSD,Memories,Tokyo,Maihama Amphitheater
+Japan,Fanmeet,Feb 24,Kim Kyujong SS501,2019 Fanmeeting,Tokyo,Yamano Hall
+Japan,Concert,Apr 11,ONF,We Must Love,Tokyo,Zepp Tokyo
+Japan,Concert,Apr 13,Lee Gikwang Highlight,I,Tokyo,Toyosu PIT
+Japan,Concert,Apr 17-18,Jaejoong JYJ,Flawless Love,Tokyo,Musashino Sports Complex
+Japan,Fanmeet,Apr 18,"Daehyun, Jong-up B.A.P",Daehyun x Jong-up Fanmeeting,Tokyo,Ota City Hall
+Japan,Fanmeet,Apr 19,Hyomin,君がいてよかった,Tokyo,ReNY
+Japan,Fanmeet,Apr 19,"Daehyun, Jong-up B.A.P",Daehyun x Jong-up Fanmeeting,Tokyo,HY Town Hall
+Japan,Fanmeet,Apr 21,GWSN,groo my world,Tokyo,Ebisu Hall
+Japan,Concert,Apr 24,KARD,Wild Kard,Tokyo,duo Music Exchange
+Japan,Fanmeet,May 08,Bang Yongguk,1st Fan Meeting,Tokyo,Zepp Tokyo
+Japan,Fanmeet,Jun 08,Youngjae B.A.P,〜Begin Again〜,Tokyo,Akasaka Blitz
+Japan,Concert,May 28-29,Jaejoong JYJ,Flawless Love,Wakayama,Wakayama Big Whale
+Japan,Fanmeet,Apr 27,Laboum,Love Pop Wow !!,Yokohama,Landmark Hall
+Japan,Concert,Nov 17,GFRIEND,GO GO GFRIEND!,Yokohama,Pacifico Yokohama
+Macau,Showcase,Apr 07,Jus2 GOT7,Focus,Macau,Broadway Theatre
+Macau,Concert,Dec 28-29,Winner,Cross,Macau,Studio City Event Center
+Malaysia,Fanmeet,Mar 23,Ong Seongwoo,Eternity,Kuala Lumpur,Axiata Arena
+Malaysia,Concert,Jun 22,Monsta X,We Are Here,Kuala Lumpur,[TBD]()
+Malaysia,Concert,Sept 06,Dreamcatcher,Invitation from Nightmare City,Kuala Lumpur,KL Live
+Malaysia,Fanmeet,Nov 30,Lee Seung Gi,Vagabond Voyage,Kuala Lumpur,Menara PGRM
+Malaysia,Concert,Jun 29,Gfriend,GO GO GFRIEND!,Selangor,Malawati Indoor Stadium
+Mexico,Concert,Jul 19,Twice,TWICELIGHTS,Mexico City,Palacio de los Deportes
+Mexico,Concert,Jul 21,Monsta X,We Are Here,Mexico City,Teatro Metropólitan
+Mexico,Concert,Sep 22,Pentagon,PRISM,Mexico City,Auditorio BlackBerry
+Mexico,Concert,Sep 20,Pentagon,PRISM,Monterrey,Auditorio Pabellón M
+Morocco,Concert,Apr 12,Seven O'Clock,The Beginning,"Rabat, Morocco",Cinéma Renaissance
+Morocco,Concert,Apr 19,Alphabat,The Revival,"Rabat, Morocco",Cinéma Renaissance
+Netherlands,Concert,Apr 14,IMFACT,European Tour,"Amstelveen, Netherlands",P60 Pop Podium
+Netherlands,Concert,Sept 14,Dok2Gonzo,Thunderground,"Amstelveen, Netherlands",P60 amstelveen
+Netherlands,Concert,Jan 29,Day6,Youth,"Amsterdam, Netherlands",The Box
+Netherlands,Concert,Jan 29,Day6,Youth,"Amsterdam, Netherlands",The Box
+Netherlands,Concert,Feb 28,A.C.E.,To Be An Ace,"Amsterdam, Netherlands",Melkweg
+Netherlands,Concert,Mar 15,Epik High,sleepless in __________,"Amsterdam, Netherlands",Q-Factory
+Netherlands,Concert,Mar 19,Sik-K,FL1P Sik-K,"Amsterdam, Netherlands",Q-Factory
+Netherlands,Concert,Apr 12,Ateez,Expedition,"Amsterdam, Netherlands",Q-Factory
+Netherlands,Concert,May 08,SF9,Unlimited,"Amsterdam, Netherlands",Melkweg
+Netherlands,Concert,May 18,Blackpink,In Your Area,"Amsterdam, Netherlands",AFAS Live
+Netherlands,Concert,Jun 20,Eric Nam,I Color U,"Amsterdam, Netherlands",Melkweg
+Netherlands,Concert,Jul 03,Monsta X,We Are Here,"Amsterdam, Netherlands",[TBD]()
+Norway,Workshop,Apr 28,Alphabat,The Revival,"Oslo, Norway",Subsdans
+Norway,Fanmeet,Apr 29,M.O.N.T,Will You Be My Mint,"Oslo, Norway",[TBD]()
+Philippines,Fanmeet,Mar 15,Park Ji Hoon,First Edition,Manila,Smart Araneta Coliseum
+Philippines,Fanmeet,Mar 16,So Ji Sub,Hello,Manila,New Frontier Theater
+Philippines,Concert,Mar 24,Dreamcatcher,Invitation from Nightmare City,Manila,SM Sky Dome
+Philippines,Concert,Apr 27,Stray Kids,I Am,Manila,Smart Araneta Coliseum
+Philippines,Festival,June 09,Various,KWMF 2019,Manila,Mall of Asia Arena
+Philippines,Concert,Aug 25,Gfriend,GO GO GFRIEND!,Manila,New Frontier Theater
+Poland,Concert,Apr 11,M.O.N.T,Will You Be My Mint,"Krakow, Poland",[TBD]()
+Poland,Concert,Feb 23,Park Jungmin,Europe Tour,"Warsaw, Poland",Voodoo Club
+Poland,Concert,Mar 19,Epik High,sleepless in __________,"Warsaw, Poland",Progresja
+Poland,Concert,Mar 22,Sik-K,FL1P Sik-K,"Warsaw, Poland",Progresja
+Poland,Concert,Apr 07,Seven O'Clock,The Beginning,"Warsaw, Poland",Odessa Club
+Poland,Concert,Apr 12,M.O.N.T,Will You Be My Mint,"Warsaw, Poland",[TBD]()
+Poland,Concert,Apr 18,IMFACT,European Tour,"Warsaw, Poland",Progresja
+Poland,Concert,Apr 19,Ateez,Expedition,"Warsaw, Poland",Palladium
+Poland,Concert,Apr 24,Alphabat,The Revival,"Warsaw, Poland",Odessa Club
+Poland,Workshop,Apr 25,Alphabat,The Revival,"Warsaw, Poland",TBA
+Poland,Concert,May 03,SF9,Unlimited,"Warsaw, Poland",Progresja
+Poland,Concert,May 17,Ju Won Tak,European Tour,"Warsaw, Poland",TBD
+Poland,Concert,Jun 12,Eric Nam,I Color U,"Warsaw, Poland",Progresja
+Poland,Concert,Sept 13,Dok2Gonzo,Thunderground,"Warsaw, Poland",Progresja
+Portugal,Concert,Apr 05,Ateez,Expedition,"Lisbon, Portugal",Lisboa ao Vivo
+Portugal,Fanmeet,Apr 18,Alphabat,The Revival,"Lisbon, Portugal",Radisson Blu Hotel
+Portugal,Concert,Jun 04,Eric Nam,I Color U,"Lisbon, Portugal",TimeOut Studio
+Portugal,Concert,Oct 19,Pentagon,PRISM,"Lisbon, Portugal",LxFactory
+Russia,Concert,Jan 18,Day6,Youth,"Moscow, Russia",Glavclub
+Russia,Concert,Jan 18,Day6,Youth,"Moscow, Russia",Glavclub
+Russia,Concert,Feb 08,PLT,We Go Holic,"Moscow, Russia",Izvestia Hall
+Russia,Concert,Mar 03,A.C.E.,To Be An Ace,"Moscow, Russia",Izvestia Hall
+Russia,Concert,Apr 21,Ateez,Expedition,"Moscow, Russia",Izvestia Hall
+Russia,Concert,May 02,SF9,Unlimited,"Moscow, Russia",Glavclub Green Concert
+Russia,Concert,Oct 27,Pentagon,PRISM,"Moscow, Russia",Izvestia Hall
+Singapore,Concert,Mar 17,Lovelyz,Lovelyz 3 of Winter World,---,Zepp@Bigbox Singapore
+Singapore,Concert,Mar 22,Dreamcatcher,Invitation from Nightmare City,---,Gateway Theatre
+Singapore,Fanmeet,Apr 04,Ong Seongwoo,Eternity,---,Zepp@Bigbox Singapore
+Singapore,Showcase,May 04,Jus2 GOT7,Focus,---,Zepp@BigBox Singapore
+Singapore,Concert,Jul 20,Gfriend,GO GO GFRIEND!,---,Star Theater
+Singapore,Fanmeet,Nov 30,Lee Seung Gi,Vagabond Voyage,Singapore,Singapore Expo Hall 7
+South Korea,Concert,Jun 08,Gummy,This is Gummy,"Bundang, Seongnam",Seongnam Opera House
+South Korea,Concert,May 04,Gummy,This is Gummy,"Chungcheongbuk, Cheongju",Cheongju Arts Center
+South Korea,Concert,May 11,"K.Will, Wheesung",Bromance,"Deokjin, Jeonju",Sori Arts Center
+South Korea,Fanmeet,Jan 20,Kim Jaejoong JYJ,J-Party,"Dongdaemun, Seoul",Kyunghee U - Hall of Peace
+South Korea,Fanmeet,Feb 09,Park Jihoon,First Edition,"Dongdaemun, Seoul",Kyunghee U - Hall of Peace
+South Korea,Fanmeet,Apr 27-28,Bae Jin Young,IM YOUNG,"Dongdaemun, Seoul",Kyunghee U - Peace Hall
+South Korea,Fanmeet,Jan 17,Samuel,Happy Samuel Day,"Gangnam, Seoul",M-POT Hall
+South Korea,Concert,Feb 02-17,Key SHINee,Keyland,"Gangnam, Seoul",SMTown Coex Artium
+South Korea,Fanmeet,Feb 27,Yeri Red Velvet,Yeri ♡ Birthday Party,"Gangnam, Seoul",SMTown Coex Artium
+South Korea,Fanmeet,Mar 02,Park Yuchun JYJ,Slow Dance,"Gangnam, Seoul",Coex Auditorium
+South Korea,Fanmeet,Mar 04,Dami Dreamcatcher,물오름달 이레,"Gangnam, Seoul",640 Arts Tower
+South Korea,Showcase,May 23,IZ,RE：IZ,"Gangnam, Seoul",KT&G Art Hall
+South Korea,Concert,May 25-26,Luna f(x),The Fragrance of Luna (달의 향기),"Gangnam, Seoul",KT&G Art Hall
+South Korea,Fanmeet,Feb 16-17,N VIXX,아！차학연,"Gunja-dong, Seoul",Daeyang Hall
+South Korea,Concert,Jan 24-27,Wanna One,Therefore,"Guro, Seoul",Gocheok Sky Dome
+South Korea,Showcase,Jan 08,WJSN,WJ Stay? Comeback Show-con,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Shocase,Jan 09,ONEUS,Debut Concert: Masterpiece,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Showcase,Jan 16,Ateez,Zero to One,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Concert,Feb 02-03,Lee Minhyuk BTOB,Hutazone: Twonight,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Concert,Feb 24,Sunmi,Warning,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Fanmeet,Mar 01,Roh Taehyun Hotshot,biRTHday party,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Fanmeet,Mar 02,Chungha,별하랑 청하랑,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Showcase,Mar 05,Jus2 GOT7,Focus,"Gwangjin, Seoul",Walkerhill Theatre
+South Korea,Showcase,Mar 19,Jeong Sewoon,±0,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Concert,Mar 22-24,Ravi VIXX,R.ook Book,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Showcase,Mar 26,JBJ95,Awake,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Concert,Mar 29-30,Bastarz Block B,Welcome 2 Bastarz,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Fanmeet,Apr 7,Yuri SNSD,Into Yuri,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Fanmeet,Apr 20,Apink,에핑은 여덟살,"Gwangjin, Seoul",Sejong U. Daeyang Hall
+South Korea,Concert,Apr 27-28,Son Dongwoon Highlight,The Orchestra,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Fanmeet,Mar 03,Baekhyun EXO,BIRTHDAY PARTY,"Gwangjin, Seoul",Sejong U. Daeyang Hall
+South Korea,Fanmeet,May 25,Shin Hyesung Shinhwa,五.月.之.戀 오. 월. 지. 련,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Fanmeet,Jun 01,Chansung 2PM,TMC : 투 머치 찬포메이션,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Concert,Jun 15,Sunmi,Warning Encore,"Gwangjin, Seoul",Yes24 Live Hall
+South Korea,Concert,Feb 16,Kim Hyun Joong,New Way,"Gyeongsangbuk, Daegu",Chunma Art Center
+South Korea,Concert,Jul 06,Gummy,This is Gummy,"Gyeongsangnam, Changwon",KBS Changwon Hall
+South Korea,Concert,May 18,Gummy,This is Gummy,"Gyeongsangnam, Jinju",Gyeongnam Art Center
+South Korea,Concert,Jun 22,Gummy,This is Gummy,"Haeundae, Busan",Bexco Auditorium
+South Korea,Concert,Apr 19-21,Mamamoo,4season F／W,"Jangchung, Seoul",Jangchung Stadium
+South Korea,Concert,May 04-05,"K.Will, Wheesung",Bromance,"Jangchung, Seoul",Jangchung Stadium
+South Korea,Concert,May 11,iKON,KEMiSTRY,"Jangchung, Seoul",Jangchung Stadium
+South Korea,Concert,Jul 13,Gummy,This is Gummy,Jeju,Jeju ICC Tamna Hall
+South Korea,Fanmeet,Feb 16,Choi Minho SHINee,Best Choi's Minho,"Jongno, Seoul",Sangmyung Art Center
+South Korea,Fanmeet,Feb 16,CLC,Promposal of CLC PARTY,"Jongno, Seoul",Gwanghwamun Art Hall
+South Korea,Concert,Mar 09-10,Park Kyung Block B,28.3°C,"Jongno, Seoul",Uniplex
+South Korea,Fanmeet,Mar 16,K.Will,Letter from K.Will,"Jongno, Seoul",Hongik Art Center
+South Korea,Concert,Feb 23,Voisper,The First Harmony,"Jung, Seoul",Ehwa 100th Memorial Hall
+South Korea,Concert,Apr 06-07,Dreamcatcher,Invitation from Nightmare City,"Mapo-gu, Seoul",FAN Square
+South Korea,Fanmeet,Jan 12,Fave Girls,WE? - Our New Days!,"Mapo, Seoul",MUV-Hall
+South Korea,Concert,Jan 19,N.Flying,Note 2 ㄹㅇ,"Mapo, Seoul",MUV-Hall
+South Korea,Showcase,Feb 18,TREI,BORN；本,"Mapo, Seoul",MUV-Hall
+South Korea,Fanmeet,Mar 09,K TST,K log,"Mapo, Seoul",Sweet Hall
+South Korea,Showcase,Mar 12,Dream Note,Dream:us,"Mapo, Seoul",MUV Hall
+South Korea,Showcase,Mar 13,GWSN,The Park in the Night,"Mapo, Seoul",FAN Square
+South Korea,Fanmeet,Apr 06-07,Park Jungmin SS501,32번째 찾아온 봄,"Mapo, Seoul",Gurumare Theater;
+South Korea,Concert,Jun 01,Gummy,This is Gummy,"Nam, Ulsan",KBS Ulsan Hall
+South Korea,Fanmeet,Mar 30,Jinyoung B1A4,Jinyoung Inside Me,"Nowon, Seoul",Kwangwoon U - Art Hall
+South Korea,Fanmeet,Apr 20,Oh My Girl,오늘도 미라클,"Nowon, Seoul",KWU Donghae Arts Center
+South Korea,Concert,Jun 29,Gummy,This is Gummy,"Sangyeok, Daegu",Kyungbuk U Auditorium
+South Korea,Fanmeet,Feb 24,Nine Muses,Remember,"Seongbuk, Seoul",Hansung U
+South Korea,Concert,Feb 14-17,Lovelyz,겨울나라의 러블리즈3,Seoul,Yonsei U - Auditorium
+South Korea,Fanmeet,Mar 30,Minho SHINee,Best Choi's Minho Encore,Seoul,KU Hwajeong Stadium
+South Korea,Fanmeet,May 26,Park Jihoon,May I Love You?,Seoul,KU Hwajeong Stadium
+South Korea,Concert,May 31- Jun 02,XIA,Way Back Encore,Seoul,KU Hwajeong Stadium
+South Korea,Concert,Feb 16-17,Sam Kim,Sun and Moon,"Shinchon, Seoul",Ehwa U - Samsung Hall
+South Korea,Concert,May 11-12,Nichkhun 2PM,HOME,"Shinchon, Seoul",Ehwa U - Samsung Hall
+South Korea,Showcase,Mar 08,Hong Jinyoung,Lots of Love,"Shinsu-dong, Seoul",Sogang U - Mary Hall
+South Korea,Concert,Apr 27,KARD,Wild Kard,"Shinsu-dong, Seoul",Sogang U - Mary Hall
+South Korea,Concert,Jan 26-27,Lee Honggi FT Island,I Am,"Sinchon, Seoul",Yonsei U - Centennial Hall
+South Korea,Fanmeet,Apr 27,WJSN,WJ STATION,"Sinchon, Seoul",Yonsei U - Auditorium
+South Korea,Concert,Jul 27-28,Jeong Sewoon,Zero,"Sinchon, Seoul",Yonsei U - Auditorium
+South Korea,Concert,Jan 05,Winner,Everywhere [Encore],"Songpa, Seoul",KSPO Dome
+South Korea,Fanmeet,Jan 05-06,GOT7,날아라 갓세븐,"Songpa, Seoul",Jamsil Arena
+South Korea,Concert,Jan 06,iKon,Continue [Encore],"Songpa, Seoul",KSPO Dome
+South Korea,Concert,Jan 26-27,NCT127,NEOCITY : Seoul-The Origin,"Songpa, Seoul",KSPO Dome
+South Korea,Concert,Jan 26-27,The Boyz,The Castle,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Feb 01-02,Yong Junhyung Highlight,Goodbye 20's,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Feb 08,Wheesung,GET SEXXY - Season. 2,"Songpa, Seoul",Jamsil Arena
+South Korea,Fanmeet,Feb 09,Naeun Apink,The Naeun Day,"Songpa, Seoul",Muse Live Hall
+South Korea,Fanmeet,Feb 10,Gfriend,Dear. Buddy -Cross the Sunset,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Feb 16-17,Seungri Big Bang,The Great Seungri,"Songpa, Seoul",SK Olympic Handball Gym
+South Korea,Concert,Feb 16-17,LOOΠΔ,LOOΠΔVERSE,"Songpa, Seoul",Olympic Hall
+South Korea,Fanmeet,Feb 24,Nature,Nature World,"Songpa, Seoul",K-Art Hall
+South Korea,Fanmeet,Mar 01,Chorong Apink,Rong Time No See!,"Songpa, Seoul",Muse Live Hall
+South Korea,Concert,Mar 02,ASTRO,Black,"Songpa, Seoul",Olympic Park Olympic Hall
+South Korea,Concert,Mar 02-03,Super Junior,Super Show 7S,"Songpa, Seoul",KSPO Dome
+South Korea,Fanmeet,Mar 08-09,Ha Sungwoon Hotshot,My Moment,"Songpa, Seoul",SK Olympic Handball Gym
+South Korea,Concert,Mar 08-10,Seventeen,Seventeen in Carat Land,"Songpa, Seoul",Jamsil Arena
+South Korea,Concert,Mar 09-10,TVXQ,#with CIRCLE,"Songpa, Seoul",KSPO Dome
+South Korea,Concert,Mar 15-17,Taemin SHINee,T1001101,"Songpa, Seoul",SK Olympic Handball Gym
+South Korea,Concert,Mar 23-24,Taeyeon SNSD,＇s...one,"Songpa, Seoul",Jamsil Arena
+South Korea,Concert,Mar 23-24,Junho 2PM,Junho The Best,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Mar 30-31,Day6,Youth [Encore],"Songpa, Seoul",SK Olympic Handball Gym
+South Korea,Fanmeet,Apr 6,Lai Kuanlin,Good Feeling,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Apr 12-14,Nu'est,Segno,"Songpa, Seoul",KSPO Dome
+South Korea,Concert,Apr 13-14,Super Junior D&E,The D&E,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Apr 13-14,Monsta X,We Are Here,"Songpa, Seoul",SK Olympic Handball Gym
+South Korea,Concert,Apr 20,Stray Kids,HI-STAY,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Apr 20-21,Shinhwa,Chapter 4,"Songpa, Seoul",KSPO Dome
+South Korea,Concert,Apr 28,Lee Joongi,DELIGHT：For Us,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,May 18-19,GFRIEND,GO GO GFRIEND!,"Songpa, Seoul",SK Olympic Handball Gym
+South Korea,Showcase,May 22,AB6IX,B：COMPLETE,"Songpa, Seoul",Olympic Hall
+South Korea,Festival,May 24,"N.Flying, Heize",DELIGHT MUSIC FESTA,"Songpa, Seoul",Jamsil Arena
+South Korea,Concert,May 25-26,Twice,TWICELIGHTS,"Songpa, Seoul",KSPO Dome
+South Korea,Fanmeet,May 26,Kim Jaehwan,MIN:D,"Songpa, Seoul",Jamsil Arena
+South Korea,Concert,Jun 07-09,IZ*ONE,Eyes on Me,"Songpa, Seoul",Jamsil Arena
+South Korea,Concert,Jun 15-16,Gummy,This is Gummy,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Jun 15-16,GOT7,KEEP SPINNING,"Songpa, Seoul",Olympic Arena
+South Korea,Concert,Jun 22-23,BTS,Magic Shop,"Songpa, Seoul",Olympic Park 88 Area
+South Korea,Concert,Jun 22-23,Jung Seunghwan,"Dear, My Universe","Songpa, Seoul",Olympic Hall
+South Korea,Concert,Jun 29- Jul 13,Park Hyoshin,LOVERS：where is your love？,"Songpa, Seoul",KSPO Dome
+South Korea,Concert,Jul 06-07,Jay Park,SEXY 4EVA,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Jul 20,Yang DaIl,D.I.LAND,"Songpa, Seoul",Olympic Hall
+South Korea,Concert,Feb 23,Kim Hyun Joong,New Way,"Suyeong, Busan",KBS Busan Hall
+South Korea,Concert,Mar 16,Sandeul B1A4,Happy Sandeul Day,"Yeoungdeungpo, Seoul",Yeoungdeungpo Art Hall
+South Korea,Concert,Jan 27,Hanhae,About Time,"Yongsan, Seoul",Understage
+South Korea,Concert,Feb 09,Kim Hyun Joong,New Way,"Yongsan, Seoul",Blue Square I-Market Hall
+South Korea,Concert,Feb 16-17,Eric Nam,I Color U,"Yongsan, Seoul",Blue Square I-Market Hall
+South Korea,Concert,Mar 02-03,WJSN,Would you stay♥ - Secret Box,"Yongsan, Seoul",Blue Square I-Market Hall
+South Korea,Concert,Mar 23-24,Lee Gikwang Highlight,I,"Yongsan, Seoul",Blue Square I-Market Hall
+South Korea,Concert,Apr 19-21,Nell,Quiet yet Loud,"Yongsan, Seoul",Blue Square I-Market Hall
+South Korea,Concert,Apr 27-28,Pentagon,PRISM,"Yongsan, Seoul",Blue Square I-Market Hall
+South Korea,Concert,May 24,Eric Nam,Fan Concert with Eric Nam,"Yongsan, Seoul",Understage
+South Korea,Concert,May 25,Kassy,진심이 담긴 콘서트,"Yongsan, Seoul",Understage
+South Korea,Concert,Jun 01,Sik-K,FL1P,"Yongsan, Seoul",Blue Square I-Market Hall
+South Korea,Concert,Jun 06,Guckkasten,HELLO,"Yongsan, Seoul",Blue Square I-Market Hall
+Spain,Concert,May 28,Blackpink,In Your Area,"Barcelona, Spain",Palau Sant Jordi
+Spain,Concert,Mar 23,Sik-K,FL1P Sik-K,"Machester, UK",FAC251
+Spain,Concert,Jan 20,Day6,Youth,"Madrid, Spain",Sala Riviera
+Spain,Concert,Jan 20,Day6,Youth,"Madrid, Spain",Sala Riviera
+Spain,Concert,Feb 10,PLT,We Go Holic,"Madrid, Spain",Gotham The Club
+Spain,Concert,Feb 20,A.C.E.,To Be An Ace,"Madrid, Spain",Teatro Barceló
+Spain,Concert,Mar 24,Bang Yongguk,European Tour,"Madrid, Spain",Gotham The Club
+Spain,Concert,Apr 13,IMFACT,European Tour,"Madrid, Spain",Gotham The Club
+Spain,Concert,Apr 14,Seven O'Clock,The Beginning,"Madrid, Spain",Gotham The Club
+Spain,Concert,Apr 18,M.O.N.T,Will You Be My Mint,"Madrid, Spain",[TBD]()
+Spain,Concert,Jun 05,Eric Nam,I Color U,"Madrid, Spain",Cool Stage
+Spain,Concert,Jun 29,Monsta X,We Are Here,"Madrid, Spain",[TBD]()
+Spain,Concert,Sept 16,Dok2Gonzo,Thunderground,"Madrid, Spain",GOTHAM The Club
+Spain,Concert,May 21,Blackpink,In Your Area,"Manchester, UK",Manchester Arena
+Sweden,Fanmeet,Apr 30,M.O.N.T,Will You Be My Mint,"Gothenburg, Sweden",[TBD]()
+Sweden,Concert,Apr 18,Ateez,Expedition,"Stockholm, Sweden",Fryshuset Klubben
+Sweden,Concert,Feb 26,A.C.E.,To Be An Ace,"Stokholm, Sweden",Fryshuset Klubben
+Taiwan,Fanmeet,Mar 03,Choi Minho (SHINee),Best Choi’s Minho,Taipei,TICC
+Taiwan,Fanmeet,Mar 09,Yoon Jisung,Aside,Taipei City,NTU Sports Center
+Taiwan,Fanmeet,Mar 10,Yuri SNSD,Into Yuri,Taipei City,Petite Cafe
+Taiwan,Concert,Mar 16,ASTRO,Star Light,Taipei City,TICC
+Taiwan,Fanmeet,Mar 16,Sung Hoon,My Secret Date,Taipei City,Legacy MAX
+Taiwan,Fanmeet,Mar 23,Ha Sungwoon Hotshot,My Moment,Taipei City,TICC
+Taiwan,Concert,Mar 28,Various,Monster Kpop Concert,Taipei City,Taipei Arena
+Taiwan,Concert,Mar 30,Lee Gikwang,I,Taipei City,TICC
+Taiwan,Concert,Mar 31,Lovelyz,Lovelyz 3 of Winter World,Taipei City,TICC
+Taiwan,Concert,Apr 07,Davichi,Davichi,Taipei City,Legacy MAX
+Taiwan,Showcase,Apr 14,Jus2 GOT7,Focus,Taipei City,TICC
+Taiwan,Concert,Apr 27,ONF,We Must Love,Taipei City,Legacy MAX
+Taiwan,Concert,Aug 31,Gfriend,GO GO GFRIEND!,Taoyuan City,NTSU Arena
+Taiwan,Concert,Nov 24,Winner,Cross Tour,Taoyuan City,NTSU Arena
+Thailand,Concert,Apr 27,ASTRO,Star Light,---,[]()
+Thailand,Fanmeet,Mar 02,Choi Minho (SHINee),Best Choi’s Minho,Bangkok,Thunder Dome
+Thailand,Fanmeet,Mar 16,Ong Seongwoo,Eternity,Bangkok,Thunder Dome
+Thailand,Fanmeet,Mar 23,Yoon Jisung,Aside,Bangkok,BCC Hall
+Thailand,Concert,Apr 04,BTS,Love Yourself : Speak Yourself,Bangkok,Rajamangala Stadium
+Thailand,Showcase,Apr 27-28,Jus2 GOT7,Focus,Bangkok,Thunder Dome
+Thailand,Concert,Jun 01,Monsta X,We Are Here,Bangkok,[TBD]()
+Thailand,Concert,Jul 27,Gfriend,GO GO GFRIEND!,Bangkok,BCC Hall
+Thailand,Fanmeet,Oct 19,Lee Seung Gi,Vagabond Voyage,"Nonthaburi, Thailand",Central Plaza Chaengwattana
+United Kingdom,Concert,Jan 25,Day6,Youth,"London, UK",O2 Forum Kentish Town
+United Kingdom,Concert,Jan 25,Day6,Youth,"London, UK",O2 Forum Kentish Town
+United Kingdom,Concert,Feb 17,PLT,We Go Holic,"London, UK",ULU Live
+United Kingdom,Concert,Feb 22,Park Jungmin,Europe Tour,"London, UK",229 The Venue
+United Kingdom,Concert,Feb 23,Hyolyn,TRUE,"London, UK",Electric Ballroom
+United Kingdom,Concert,Mar 10,A.C.E.,To Be An Ace,"London, UK",O2 Academy Islington
+United Kingdom,Concert,Mar 20,Epik High,sleepless in __________,"London, UK",Electric Ballroom
+United Kingdom,Concert,Mar 23,Sik-K,FL1P Sik-K,"London, UK",Electric Ballroom
+United Kingdom,Concert,Mar 27,Bang Yongguk,European Tour,"London, UK",Underworld Camden
+United Kingdom,Concert,Apr 03,Ateez,Expedition,"London, UK",O2 Forum Kentish Town
+United Kingdom,Concert,Apr 06,Seven O'Clock,The Beginning,"London, UK",TBA
+United Kingdom,Concert,Apr 28,Sam Kim,Sun and Moon,"London, UK",Electric Ballroom
+United Kingdom,Concert,May 12,SF9,Unlimited,"London, UK",O2 Shepherd's Bush Empire
+United Kingdom,Concert,May 22,Blackpink,In Your Area,"London, UK",SSE Arena
+United Kingdom,Concert,Jun 21-22,Eric Nam,I Color U,"London, UK",O2 Academy Islington
+United Kingdom,Concert,Jul 09,Monsta X,We Are Here,"London, UK",[TBD]()
+United Kingdom,Concert,Sept 11,Dok2Gonzo,Thunderground,"London, UK",Scala
+United Kingdom,Concert,Jun 01-02,BTS,Love Yourself: Speak Yourself,"Wembley, UK",Wembley Stadium
+USA,Concert,Jan 18,Oh My Girl,First US Tour,"Atlanta, GA",Center Stage Theater
+USA,Concert,Jan 21,MXM,Meet & Live,"Atlanta, GA",Buckhead Theatre
+USA,Concert,Mar 22,Ateez,Expedition,"Atlanta, GA",Center Stage Theater
+USA,Concert,Apr 12,Sik-K,FL1P Sik-K,"Atlanta, GA",Center Stage Theater
+USA,Concert,Apr 15,Epik High,sleepless in __________,"Atlanta, GA",Center Stage Theater
+USA,Concert,Apr 24,SF9,Unlimited,"Atlanta, GA",Center Stage Theater
+USA,Concert,Apr 26,NCT127,NeoCity: The Origin,"Atlanta, GA",Coca-Cola Roxy
+USA,Concert,May 05,Blackpink,In Your Area,"Atlanta, GA",Infinite Energy Arena
+USA,Concert,May 17,TXT,STAR in US,"Atlanta, GA",Center Stage Theater
+USA,Concert,Jul 30,Monsta X,We Are Here,"Atlanta, GA",Fox Theatre
+USA,Concert,Aug 28,The Rose,We Rose You Live,"Atlanta, GA",Center Stage
+USA,Concert,Nov 13,Tiffany Young,Magnetic Moon,"Atlanta, GA",Buckhead Theatre
+USA,Concert,Apr 18,Epik High,sleepless in __________,"Austin, TX",Emo’s
+USA,Concert,Aug 25,Various,Kevin Woo x James Lee feat. FYKE,"Berkeley, CA",Cornerstone
+USA,Concert,Apr 09,Epik High,sleepless in __________,"Boston, MA",Paradise Rock Club
+USA,Concert,Sept 15,Day6,Gravity,"Boston, MA",Orpheum Theatre
+USA,Concert,Nov 08,Tiffany Young,Magnetic Moon,"Boston, MA",Paradise Rock Club
+USA,Concert,Mar 03,KNK,Lonely Night,"Brooklyn, NY",Warsaw
+USA,Concert,Mar 24,Ateez,Expedition,"Brooklyn, NY",Warsaw
+USA,Concert,Apr 06,M.O.N.T,Will You Be My Mint,"Brooklyn, NY",Sunnyvale
+USA,Concert,Apr 21,SF9,Unlimited,"Brooklyn, NY",Kings Theatre
+USA,Concert,Nov 10,Tiffany Young,Magnetic Moon,"Brooklyn, NY",Brooklyn Steel
+USA,Concert,Jan 20,Oh My Girl,First US Tour,"Chicago, IL",Park West
+USA,Concert,Feb 15,Red Velvet,REDMARE,"Chicago, IL",Chicago Theater
+USA,Concert,Mar 01,KNK,Lonely Night,"Chicago, IL",Park West
+USA,Concert,Mar 08,Tiffany Young,Lips on Lips,"Chicago, IL",Lincoln Hall
+USA,Concert,Mar 20,Ateez,Expedition,"Chicago, IL",Vic Theatre
+USA,Concert,Apr 03,Epik High,sleepless in __________,"Chicago, IL",House Of Blues
+USA,Concert,Apr 07,M.O.N.T,Will You Be My Mint,"Chicago, IL",Studebaker Theater
+USA,Concert,Apr 16,Sik-K,FL1P Sik-K,"Chicago, IL",Concord Music Hall
+USA,Concert,Apr 19,SF9,Unlimited,"Chicago, IL",Vic Theatre
+USA,Concert,Apr 24,Blackpink,In Your Area,"Chicago, IL",All State Arena
+USA,Concert,Apr 30,VAV,Meet & Live Tour,"Chicago, IL",Park West
+USA,Concert,May 11-12,BTS,Love Yourself: Speak Yourself,"Chicago, IL",Soldier Field
+USA,Concert,May 12,TXT,STAR in US,"Chicago, IL",Vic Theatre
+USA,Concert,Jul 23,Twice,TWICELIGHTS,"Chicago, IL",Wintrust Arena
+USA,Concert,Aug 27,Sung Si Kyung,The Song,"Chicago, IL",Copernicus Center
+USA,Concert,Sept 06,Pentagon,PRISM,"Chicago, IL",House of Blues Chicago
+USA,Concert,Sept 06,The Rose,We Rose You Live,"Chicago, IL",Park West
+USA,Concert,Oct 30,Teen Top,Party To. N9NE,"Chicago, IL",Concord Music Hall
+USA,Concert,Nov 02,Tiffany Young,Magnetic Moon,"Chicago, IL",Vic Theatre
+USA,Concert,Apr 28,NCT127,NeoCity: The Origin,"Coral Gables, FL",Watsco Center
+USA,Concert,Feb 27,KNK,Lonely Night,"Dallas, TX",Granada Theater
+USA,Concert,Mar 17,Ateez,Expedition,"Dallas, TX",Granada Theater
+USA,Concert,Apr 02,M.O.N.T,Will You Be My Mint,"Dallas, TX",Viva's Lounge
+USA,Concert,Apr 09,Sik-K,FL1P Sik-K,"Dallas, TX",Canton Hall
+USA,Concert,Apr 20,Epik High,sleepless in __________,"Dallas, TX",Canton Hall
+USA,Concert,May 01,VAV,Meet & Live Tour,"Dallas, TX",South Side Music Hall
+USA,Concert,May 01,NCT127,NeoCity: The Origin,"Dallas, TX",Verizon Theater
+USA,Concert,May 19,TXT,STAR in US,"Dallas, TX",Bomb Factory
+USA,Concert,Sept 04,The Rose,We Rose You Live,"Dallas, TX",Granada Theater
+USA,Concert,Sept 08,Pentagon,PRISM,"Dallas, TX",House of Blues Dallas
+USA,Concert,Oct 25,Teen Top,Party To. N9NE,"Dallas, TX",South Side Music Hall
+USA,Concert,Nov 16,Tiffany Young,Magnetic Moon,"Dallas, TX",Trees
+USA,Concert,Nov 18,Tiffany Young,Magnetic Moon,"Denver, CO",Bluebird Theater
+USA,Concert,Apr 04,M.O.N.T,Will You Be My Mint,"Duluth, GA",Red Clay Music Foundry
+USA,Concert,May 08,Blackpink,In Your Area,"Fort Worth, TX",Fort Worth Convention Center
+USA,Concert,Feb 10,Red Velvet,REDMARE,"Grand Prairie, TX",Verizon Theatre
+USA,Concert,Mar 21,ASTRO,Star Light,"Grand Prairie, TX",Verizon Theater
+USA,Concert,Jul 25,Monsta X,We Are Here,"Grand Prairie, TX",The Theatre
+USA,Concert,Sept 20,Day6,Gravity,"Grand Prairie, TX",Theater at Grand Prairie
+USA,Concert,Mar 16,Tiffany Young,Lips on Lips,"Hollywood, CA",Troubadour
+USA,Concert,Sept 08,Sung Si Kyung,The Song,"Honolulu, HI",Hawaii Theatre
+USA,Concert,Jan 22,Oh My Girl,First US Tour,"Houston, TX",Stereo Live Houston
+USA,Concert,Jan 23,MXM,Meet & Live,"Houston, TX",Zilkha Hall
+USA,Concert,Apr 10,Sik-K,FL1P Sik-K,"Houston, TX",Warehouse Live
+USA,Concert,Apr 19,Epik High,sleepless in __________,"Houston, TX",House Of Blues
+USA,Concert,May 19,Stray Kids,I am,"Houston, TX",Revention Music Center
+USA,Concert,Sept 11,The Rose,We Rose You Live,"Houston, TX",Warehouse Live
+USA,Concert,Nov 15,Tiffany Young,Magnetic Moon,"Houston, TX",White Oak Music Hall
+USA,Concert,Jan 26,Oh My Girl,First US Tour,"Indio, CA",Fantasy Springs
+USA,Festival,Apr 12,Various,Coachella,"Indio, CA",Empire Polo Club
+USA,Festival,Apr 19,Various,Coachella,"Indio, CA",Empire Polo Club
+USA,Concert,Oct 19,"Hyolyn, Ha Dong Qn",Hot & Blue,"Indio, CA",Fantasy Springs Casino
+USA,Concert,Jul 17,Twice,TWICELIGHTS,"Inglewood, CA",The Forum
+USA,Concert,Jan 22,Winner,Everwhere,"Irving, TX",Toyota Music Pavillion
+USA,Concert,Jan 20,MXM,Meet & Live,"Jersey City, NJ",White Eagle Hall
+USA,Concert,Apr 27,VAV,Meet & Live Tour,"Jersey City, NJ",White Eagle Hall
+USA,Concert,Aug 17,IMFACT,1st Meet & Greet,"Jersey City, NJ",White Eagle Hall
+USA,Festival,Sept 21,Monsta X,Daytime Stage,"Las Vegas, NV",Las Vegas Festival Grounds
+USA,Concert,Apr 07,Sik-K,FL1P Sik-K,Los Angeles,The Novo
+USA,Concert,May 24,TXT,STAR in US,Los Angeles,The Novo
+USA,Concert,Jan 20,Winner,Everwhere,"Los Angeles, CA",Hollywood Palladium
+USA,Concert,Jan 25,MXM,Meet & Live,"Los Angeles, CA",Teragram Ballroom
+USA,Concert,Feb 24,KNK,Lonely Night,"Los Angeles, CA",Globe Theater
+USA,Concert,Mar 07,Sunmi,Warning,"Los Angeles, CA",Fonda Theater
+USA,Concert,Mar 15,Ateez,Expedition,"Los Angeles, CA",Globe Theater
+USA,Concert,Mar 24,ASTRO,Star Light,"Los Angeles, CA",Hollywood Palladium
+USA,Concert,Apr 17,Blackpink,In Your Area,"Los Angeles, CA",The Forum
+USA,Concert,Apr 26,Epik High,sleepless in __________,"Los Angeles, CA",The Wiltern
+USA,Concert,Apr 26,SF9,Unlimited,"Los Angeles, CA",Fonda Theater
+USA,Concert,May 05,VAV,Meet & Live Tour,"Los Angeles, CA",Avalon Hollywood
+USA,Concert,May 12,NCT127,NeoCity: The Origin,"Los Angeles, CA",Microsoft Theater
+USA,Concert,Aug 10,Monsta X,We Are Here,"Los Angeles, CA",STAPLES Center
+USA,Convention,Aug 17,Various,KCON 2019,"Los Angeles, CA",STAPLES Center
+USA,Convention,Aug 18,Various,KCON 2019,"Los Angeles, CA",STAPLES Center
+USA,Concert,Aug 24,Various,Kevin Woo x James Lee feat. FYKE,"Los Angeles, CA",El Rey Theatre
+USA,Concert,Sept 04,Sung Si Kyung,The Song,"Los Angeles, CA",Theatre at Ace Hotel
+USA,Concert,Sep 12,Pentagon,PRISM,"Los Angeles, CA",The Wiltern
+USA,Concert,Sept 15,The Rose,We Rose You Live,"Los Angeles, CA",Fonda Theater
+USA,Concert,Sept 28-29,Day6,Gravity,"Los Angeles, CA",The Novo
+USA,Concert,Nov 03,Teen Top,Party To. N9NE,"Los Angeles, CA",Globe Theatre
+USA,Concert,Nov 21,Tiffany Young,Magnetic Moon,"Los Angeles, CA",Fonda Theater
+USA,Concert,Feb 13,Red Velvet,REDMARE,"Miami Beach, FL",Fillmore Miami Beach
+USA,Concert,Sept 18,Day6,Gravity,"Miami Beach, FL",Jackie Gleason Theater
+USA,Concert,Sept 08,The Rose,We Rose You Live,"Miami, FL",Olympia Theater
+USA,Concert,Jan 18,MXM,Meet & Live,"Minneapolis, MN",Pantages Theatre
+USA,Concert,Apr 01,Epik High,sleepless in __________,"Minneapolis, MN",First Avenue
+USA,Concert,Aug 30,The Rose,We Rose You Live,"Minneapolis, MN",Pantages Theatre
+USA,Concert,Nov 01,Tiffany Young,Magnetic Moon,"Minneapolis, MN",First Avenue
+USA,Concert,May 18-19,BTS,Love Yourself: Speak Yourself,"New Jersey, NJ",Metlife Stadium
+USA,Concert,Jan 29,Winner,Everwhere,"New York, NY",Hulu Theater
+USA,Concert,Mar 06,Tiffany Young,Lips on Lips,"New York, NY",Bowery Ballroom
+USA,Concert,Mar 15,Sunmi,Warning,"New York, NY",The Town Hall
+USA,Event,Mar 16,iKon,Fortnite x Samsung Level Up,"New York, NY",Samsung 837
+USA,Concert,Apr 07,Epik High,sleepless in __________,"New York, NY",Terminal 5
+USA,Concert,Apr 14,Sik-K,FL1P Sik-K,"New York, NY",PlayStation Theater
+USA,Concert,May 09,TXT,STAR in US,"New York, NY",PlayStation Theater
+USA,Concert,Aug 03,Monsta X,We Are Here,"New York, NY",Hulu Theater
+USA,Concert,Aug 30,Sung Si Kyung,The Song,"New York, NY",Town Hall
+USA,Concert,Sept 01,The Rose,We Rose You Live,"New York, NY",Town Hall
+USA,Concert,Sept 05,Pentagon,PRISM,"New York, NY",Beacon Theater
+USA,Concert,Sept 12-13,Day6,Gravity,"New York, NY",Playstation Theater
+USA,Concert,Feb 17,Red Velvet,REDMARE,"Newark, NJ",NJ Performing Arts Center
+USA,Concert,Mar 19,ASTRO,Star Light,"Newark, NJ",NJ Performing Arts Center
+USA,Concert,Apr 24,NCT127,Neocity: The Origin,"Newark, NJ",Prudential Center
+USA,Concert,May 01,Blackpink,In Your Area,"Newark, NJ",Prudential Center
+USA,Concert,May 14-15,Stray Kids,I am,"Newark, NJ",NJ Performing Arts Center
+USA,Concert,Jul 21,Twice,TWICELIGHTS,"Newark, NJ",Prudential Center
+USA,Concert,May 14,TXT,STAR in US,"Orlando, FL",The Plaza Live
+USA,Concert,Feb 08,Red Velvet,REDMARE,"Pasadena, CA",Pasadena Civic Auditorium
+USA,Concert,May 04-05,BTS,Love Yourself: Speak Yourself,"Pasadena, CA",Rose Bowl Stadium
+USA,Concert,May 17,Stray Kids,I am,"Pasadena, CA",Pasadena Civic Auditorium
+USA,Concert,Apr 10,Epik High,sleepless in __________,"Philadelphia, PA",Union Transfer
+USA,Concert,Nov 06,Tiffany Young,Magnetic Moon,"Philadelphia, PA",Union Transfer
+USA,Concert,May 03,NCT127,NeoCity: The Origin,"Phoenix, AZ",Comerica Theatre
+USA,Concert,Nov 20,Tiffany Young,Magnetic Moon,"Phoenix, AZ",Crescent Ballroom
+USA,Concert,Mar 31,M.O.N.T,Will You Be My Mint,"Pomona, CA",The Glass House
+USA,Concert,Oct 28,Tiffany Young,Magnetic Moon,"Portland, OR",Wonder Ballroom
+USA,Festival,Mar 02,Various,Koreafest 2019,"Raleigh, NC",NC Kerr Scott Building
+USA,Concert,Apr 13,Epik High,sleepless in __________,"Raleigh, NC",Lincoln Theatre
+USA,Concert,Nov 12,Tiffany Young,Magnetic Moon,"Raleigh, NC",Lincoln Theatre
+USA,Concert,Jan 24,Winner,Everwhere,"Rosemont, IL",Rosemont Theatre
+USA,Concert,May 07,NCT127,NeoCity: The Origin,"Rosemont, IL",Rosemont Theater
+USA,Concert,Aug 06,Monsta X,We Are Here,"Rosemont, IL",Rosemont Theatre
+USA,Concert,Sept 22,Day6,Gravity,"Rosemont, IL",Rosemont Theatre
+USA,Concert,Apr 23,Epik High,sleepless in __________,"San Diego, CA",The Observatory
+USA,Concert,Jan 18,Winner,Everwhere,"San Francisco, CA",The Masonic
+USA,Concert,Mar 06,Sunmi,Warning,"San Francisco, CA",Regency Ballroom
+USA,Concert,Mar 15,Tiffany Young,Lips on Lips,"San Francisco, CA",Great American Music Hall
+USA,Concert,Mar 26,ASTRO,Star Light,"San Francisco, CA",The Warfield
+USA,Concert,Apr 05,Sik-K,FL1P Sik-K,"San Francisco, CA",Regency Ballroom
+USA,Concert,Apr 28,Epik High,sleepless in __________,"San Francisco, CA",The Warfield
+USA,Concert,May 03,VAV,Meet & Live Tour,"San Francisco, CA",The Chapel
+USA,Concert,Sept 25,Day6,Gravity,"San Francisco, CA",The Warfield
+USA,Concert,Oct 25,Tiffany Young,Magnetic Moon,"San Francisco, CA",Regency Ballroom
+USA,Concert,Jan 26,MXM,Meet & Live,"San Jose, CA",Montgomery Theater
+USA,Concert,Jan 27,Oh My Girl,First US Tour,"San Jose, CA",Montgomery Theater
+USA,Concert,May 09-10,NCT127,NeoCity: The Origin,"San Jose, CA",City National Civic
+USA,Concert,Sept 13,Pentagon,PRISM,"San Jose, CA",San Jose Civic
+USA,Concert,Nov 01,Teen Top,Party To. N9NE,"San Jose, CA",SJSU Hammer Theatre
+USA,Concert,Apr 28,VAV,Meet & Live Tour,"San Juan, PR",Teatro Ambassador
+USA,Concert,Oct 27,Teen Top,Party To. N9NE,"San Juan, PR",Teatro Francisco Arriví
+USA,Concert,Jan 15,Winner,Everwhere,"Seattle, WA",Paramount Theatre
+USA,Concert,Mar 10,Sunmi,Warning,"Seattle, WA",Showbox SoDo
+USA,Concert,Mar 12,Tiffany Young,Lips on Lips,"Seattle, WA",Crocodile
+USA,Concert,Apr 04,Sik-K,FL1P Sik-K,"Seattle, WA",Neptune Theatre
+USA,Concert,May 01,Epik High,sleepless in __________,"Seattle, WA",Showbox SoDo
+USA,Concert,Sept 06,Sung Si Kyung,The Song,"Seattle, WA",Moore Theatre
+USA,Concert,Sept 10,Pentagon,PRISM,"Seattle, WA",Moore Theater
+USA,Concert,Sept 13,The Rose,We Rose You Live,"Seattle, WA",Showbox SoDo
+USA,Concert,Oct 29,Tiffany Young,Magnetic Moon,"Seattle, WA",Showbox SoDo
+USA,Concert,Apr 12,Epik High,sleepless in __________,"Silver Spring, MD",Fillmore Silver Spring
+USA,Concert,Mar 09,Tiffany Young,Lips on Lips,"St. Paul, MN",Amsterdam Hall
+USA,Concert,May 05,NCT127,NeoCity: The Origin,"Sugar Land, TX",Smart Financial Centre
+USA,Concert,Jul 27,Monsta X,We Are Here,"Sugar Land, TX",Smart Financial Centre
+USA,Concert,Mar 18,Sunmi,Warning,Washington D.C.,Lincoln Theatre
+USA,Concert,Sept 01,Sung Si Kyung,The Song,"Washington, DC",Warner Theatre
+USA,Concert,Nov 09,Tiffany Young,Magnetic Moon,"Washington, DC",U Street Music Hall
